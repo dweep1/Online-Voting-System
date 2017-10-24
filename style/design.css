@@ -1,0 +1,56 @@
+
+body{
+    padding: 0;
+    margin: 0;
+}
+.aa{
+	width: 500px;
+	height: 200px;
+	background-color: #804000;
+	text-align: center;
+	margin: 0 auto;
+	padding-top: 25px;
+	color: white;
+}
+
+.aa input[type="submit"]{
+	width: 120px;
+	height: 40px;
+	background-color: #00ff00;
+	border-radius: 5px;
+	border: 0;
+	font-weight: bolder;
+	opacity: 0.5;
+	margin: 0px 8px;
+}
+
+.aa input[type="submit"]:hover{
+	opacity: 1;
+	box-shadow: inset 0 -5px rgba(0,0,0,0.4); 
+}
+
+#main{
+	width: 500px;
+	height: auto;
+	background-color: #00ffff;
+	margin: 0 auto;
+}
+.message{
+	margin-left: 10px;
+	font-size: 20px;
+}
+.records{
+	width: 500px;
+	height: auto;
+}
+.records img{
+	width: 100px;
+	height: 110px;
+	border-radius: 20px;
+	border: outset 5px white;
+	margin-left:20px;
+}
+.color{
+	color: red;
+	text-align: center;
+}
